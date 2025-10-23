@@ -1,7 +1,10 @@
 # AI Security Summit Lab Instructions
 This repository can optionally be used to explore Snyk Studio as part of the AI Security Summit Lab.
 1. Run `git clone https://github.com/snyk-labs/ai-security-summit-lab/edit/main/README.md` to copy this directly
-2. Open this directory in the Gemini CLI
+2. Install the Snyk Studio Gemini extension and MCP server:
+
+   ```gemini extensions install https://github.com/snyk/agentic-integration-wrappers```
+4. Open this directory in the Gemini CLI
 
 # AI Generated App
 
